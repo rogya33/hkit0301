@@ -8,3 +8,6 @@ def multi(a, b):
 
 result = multi(20,30)
 print(result)
+
+def add(a, b):
+    return a + b
